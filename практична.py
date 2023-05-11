@@ -1,0 +1,3 @@
+#1
+class Animal
+    def __init__(self, , ):
